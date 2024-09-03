@@ -1,0 +1,5 @@
+print('Suel Freire')
+print('Suel "Freire"')
+print("Suel 'Freire'")
+print(1, 'Suel \'Freire\'')
+print(r'2 Suel \'Freire\'')
